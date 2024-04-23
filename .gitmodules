@@ -1,0 +1,3 @@
+[submodule "driver/stm32f769i"]
+	path = driver/stm32f769i
+	url = https://github.com/C-Architecture/brown_repository.git
